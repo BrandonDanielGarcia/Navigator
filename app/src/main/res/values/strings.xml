@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">G8s21Navigetor</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Basic Calculator</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_sumar">Suma 2 num</string>
+    <string name="menu_restar">Resta 2 num</string>
+    <string name="menu_multiplicar">Multiplica 2 num</string>
+    <string name="menu_dividir">Divide 2 num</string>
+    <string name="TituloSumar">Sumar dos numeros</string>
+    <string name="TituloRestar">Restar dos numeros</string>
+    <string name="TituloMultiplicar">Multiplicar dos numeros</string>
+    <string name="TituloDividir">Dividir dos numeros</string>
+    <string name="primernumero">Primer Numero</string>
+    <string name="segundonumero">Segundo Numero</string>
+    <string name="titulobienvenida">Bienvenido a Basic Calculator</string>
+    <string name="indicaciones">En el menu de la izquierda encontrara las operaciones que puede realizar</string>
+    <string name="autor">Por: Garcia Rivera Brandon Daniel</string>
+    <string name="correo">brandon.dani123@gmail.com</string>
+    <string name="imagen">imagen</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
