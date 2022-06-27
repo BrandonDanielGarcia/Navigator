@@ -24,5 +24,9 @@
             android:id="@+id/dividirFragment"
             android:icon="@drawable/dividir"
             android:title="@string/menu_dividir" />
+        <item
+            android:id="@+id/dinosFrag"
+            android:icon="@drawable/dividir"
+            android:title="@string/menu_dividir" />
     </group>
 </menu>

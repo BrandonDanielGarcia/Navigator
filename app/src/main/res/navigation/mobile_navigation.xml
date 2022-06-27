@@ -22,6 +22,9 @@
         <action
             android:id="@+id/action_nav_home_to_dividirFragment"
             app:destination="@id/dividirFragment" />
+        <action
+            android:id="@+id/action_nav_home_to_dinosFrag"
+            app:destination="@id/dinosFrag" />
     </fragment>
 
     <fragment
@@ -44,4 +47,9 @@
         android:name="com.example.g8s21navigetor.DividirFragment"
         android:label="dividir_fragment"
         tools:layout="@layout/dividir_fragment" />
+    <fragment
+        android:id="@+id/dinosFrag"
+        android:name="com.example.g8s21navigetor.DinosFrag"
+        android:label="dinos_fragment"
+        tools:layout="@layout/dinos_fragment" />
 </navigation>
